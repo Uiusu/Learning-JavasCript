@@ -1,0 +1,1 @@
+Repositório destinado à codar o PAC-MAN em JS
